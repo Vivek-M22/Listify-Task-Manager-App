@@ -5,6 +5,15 @@
 - Utilized Context API for state management, ensuring a single source of truth and state immutability.
 - Employed React’s architecture to develop reusable components, improving both maintainability and scalability.
 
+## Tech Stack 
+- ReactJS
+- ContextAPI
+- Vite
+- JavaScript
+- CSS
+- HTML
+- Local Storage 
+
 ## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
